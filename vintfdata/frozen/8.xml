@@ -1,5 +1,5 @@
 <compatibility-matrix version="7.0" type="device">
-    <hal format="aidl" optional="false">
+    <hal format="aidl" optional="true">
         <name>android.frameworks.cameraservice.service</name>
         <interface>
             <name>ICameraService</name>
